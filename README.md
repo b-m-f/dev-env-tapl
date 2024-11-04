@@ -1,5 +1,6 @@
 # Environment Agda development for Types and Programming Languages Course, TU Berlin 2024
 
+![./version.png](agda version)
 
 You need to have [Nix](https://nixos.org/) Installed.
 
