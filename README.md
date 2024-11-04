@@ -1,7 +1,17 @@
-# Environment Agda development for Types and Programming Languages Course, TU Berlin 2024
+# Agda environment for Types and Programming Languages Course TU Berlin 2024
 
-![./version.png](agda version)
+**Comes with**:
+```
+Agda version 2.7.0.1
+Built with flags (cabal -f)
+ - optimise-heavily: extra optimisations
+ - debug: enable debug printing ('-v' verbosity flags)
+```
 
+**And**: VsCode
+
+
+# How to use
 You need to have [Nix](https://nixos.org/) Installed.
 
 Clone this repo and `cd` into it.
