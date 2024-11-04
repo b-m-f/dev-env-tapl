@@ -3,6 +3,8 @@
 
 You need to have [Nix](https://nixos.org/) Installed.
 
+Clone this repo and `cd` into it.
+
 Now run `nix develop` to enter into a new __Shell Session__ with all dependencies for the Host System installed.
 
 Run VsCode with `code`.
